@@ -1,1 +1,4 @@
-this is the first line of mt text
+These are my git notes:
+
+This is the first line of my text.
+This is the second line of my text.
